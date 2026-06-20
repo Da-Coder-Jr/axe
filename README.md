@@ -1,9 +1,5 @@
 # axe
-<p align="center">
-  <img
-    alt="axe logo"
-    src="https://github.com/user-attachments/assets/1261359f-1e2b-4c58-9d83-f24402e33245"
-    width="100%"
-  />
-</p>
+
+<img width="2048" height="280" alt="axe_logo_banner_2048x280" src="https://github.com/user-attachments/assets/6039eaf7-01f2-4f26-aae8-5e4da92f9995" />
+
 axe helps devs build, fix, and understand code faster
